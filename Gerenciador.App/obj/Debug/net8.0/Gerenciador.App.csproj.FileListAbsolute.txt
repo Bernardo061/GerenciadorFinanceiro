@@ -1,0 +1,14 @@
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\bin\Debug\net8.0\Gerenciador.App.exe
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\bin\Debug\net8.0\Gerenciador.App.deps.json
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\bin\Debug\net8.0\Gerenciador.App.runtimeconfig.json
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\bin\Debug\net8.0\Gerenciador.App.dll
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\bin\Debug\net8.0\Gerenciador.App.pdb
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.AssemblyInfoInputs.cache
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.AssemblyInfo.cs
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.csproj.CoreCompileInputs.cache
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.dll
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\refint\Gerenciador.App.dll
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.pdb
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\Gerenciador.App.genruntimeconfig.cache
+C:\Users\mepb_\OneDrive\Desktop\GerenciadorFinanceiro\Gerenciador.App\obj\Debug\net8.0\ref\Gerenciador.App.dll

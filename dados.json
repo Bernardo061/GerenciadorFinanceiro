@@ -1,0 +1,12 @@
+[
+  {
+    "Descricao": "1890",
+    "Valor": 1890.00,
+    "Tipo": "Receita"
+  },
+  {
+    "Descricao": "150,00",
+    "Valor": 150.00,
+    "Tipo": "Despesa"
+  }
+]
