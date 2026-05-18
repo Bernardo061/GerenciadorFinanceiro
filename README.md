@@ -33,4 +33,4 @@ Uma aplicação de Linha de Comando (CLI) simples e eficiente para registrar rec
 1. Certifique-se de ter o [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0) instalado em sua máquina.
 2. Clone o repositório:
    ```bash
-   git clone [https://github.com/Bernardo061/GerenciadorFinanceiro.git](https://github.com/Bernardo061/GerenciadorFinanceiro.git)
+   git clone https://github.com/Bernardo061/GerenciadorFinanceiro.git
