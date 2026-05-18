@@ -1,5 +1,5 @@
 using System.Threading.Tasks;
-using GerenciadorFinanceiro.Services; 
+using Gerenciador.App;
 using Xunit;
 
 namespace Gerenciador.Tests; 
