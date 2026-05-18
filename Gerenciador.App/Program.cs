@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using Gerenciador.App;
+using GerenciadorFinanceiro.Services; 
 
 // Configurações iniciais
 string arquivo = "dados.json";
@@ -21,6 +22,20 @@ Console.Clear();
 Console.WriteLine("======================================");
 Console.WriteLine("   MEU GESTOR FINANCEIRO - V1.0.0");
 Console.WriteLine("======================================");
+
+// --- NOVA PARTE: Integração com a API ---
+Console.WriteLine("Buscando cotações de mercado atualizadas...");
+var cotacaoService = new CotacaoService();
+var cotacoes = await cotacaoService.ObterCotacoesAsync();
+
+if (cotacoes != null)
+{
+    Console.WriteLine("--------------------------------------");
+    Console.WriteLine(" COTAÇÕES DO DIA (AwesomeAPI):");
+    Console.WriteLine($" {cotacoes.Dolar.Nome}: R$ {cotacoes.Dolar.ValorCompra}");
+    Console.WriteLine($" {cotacoes.Euro.Nome}: R$ {cotacoes.Euro.ValorCompra}");
+}
+// ----------------------------------------
 
 while (true)
 {
