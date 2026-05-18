@@ -28,6 +28,10 @@ Uma aplicação de Linha de Comando (CLI) simples e eficiente para registrar rec
 - **Análise Estática (Linting):** `dotnet format`
 - **CI/CD:** GitHub Actions (Integração Contínua)
 
+## 🚀 Novidades da Versão (Entrega Intermediária)
+- **Integração com API Externa:** Agora o sistema consome a [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para exibir a cotação em tempo real do Dólar e do Euro logo na tela inicial, auxiliando no registro de despesas internacionais.
+- **Testes de Integração:** Adicionado teste para garantir a estabilidade da comunicação com a API.
+
 ## 📦 Como Instalar e Executar
 
 1. Certifique-se de ter o [.NET SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0) instalado em sua máquina.
