@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using Gerenciador.App;
-using GerenciadorFinanceiro.Services; 
 
 // Configurações iniciais
 string arquivo = "dados.json";
